@@ -5,6 +5,7 @@ import { AboutMe } from "../components/AboutMe";
 import { StarBackground } from "../components/StarBackground";
 import { Navbar } from "../components/Navbar";
 import { Introduction } from "../components/Introduction";
+import { SkillsSection } from "../components/Skills";
 
 export const Home = () => {
   return (
@@ -15,6 +16,7 @@ export const Home = () => {
       <main>
         <Introduction/>
         <AboutMe/>
+        <SkillsSection/>
         <ProjectsSection />
 
       </main>
