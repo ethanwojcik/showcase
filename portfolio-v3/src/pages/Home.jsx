@@ -6,7 +6,7 @@ import { StarBackground } from "../components/StarBackground";
 import { Navbar } from "../components/Navbar";
 import { Introduction } from "../components/Introduction";
 import { SkillsSection } from "../components/Skills";
-
+import { Contact } from "../components/Contact";
 export const Home = () => {
   return (
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
@@ -18,6 +18,7 @@ export const Home = () => {
         <AboutMe/>
         <SkillsSection/>
         <ProjectsSection />
+        <Contact/>
 
       </main>
 
