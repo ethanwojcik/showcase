@@ -5,7 +5,7 @@ const projects = [
     {
         id:1,
         title: "Self Learning Frogger",
-        description: "A fork of a python frogger project. Modified to use Deep Q-Learning to train an AI agent to play frogger",
+        description: "A fork of a python frogger project. Modified to use Deep Q-Learning to train an AI agent to play frogger.",
         image: "../frog2.gif",
         tags: ["Python","Deep Learning","Work In Progress"],
         demoUrl: "#coming-soon",
@@ -14,10 +14,10 @@ const projects = [
     {
         id:2,
         title: "Portfolio",
-        description: "You are currently looking at it! Modern design ",
+        description: "You are currently looking at it! Modern design to display some of my skills and projects.",
         image: "../ss.PNG",
         tags: ["React","JavaScript"],
-        demoUrl: "#coming-soon",
+        demoUrl: "#",
         githubUrl: "#"
     }
 ];

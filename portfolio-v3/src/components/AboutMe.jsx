@@ -12,12 +12,20 @@ export const AboutMe = () => {
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-12 items-center">
                     <div className="space-y-6">
-                        <h3 className="text-2xl font-semibold">Sample Text</h3>
+                        <h3 className="text-2xl font-semibold"></h3>
                         <p className="text-muted-foreground">
-                            I am a recent graduate from the University of Michigan with a Bachelor of Science in Engineering in Computer Science. Currently I am seeking work and made this website to showcase some of my skills. I have had a passion for coding ever since high school and love the problem solving aspect that comes with it
+                            I am a recent graduate from the University of 
+                            Michigan with a Bachelor of Science in Engineering in 
+                            Computer Science. Currently I am seeking work and made this website to showcase some of my 
+                            skills.
+                             Ever since high school, I have had a passion for 
+                            coding and love the problem solving aspect that comes with it.
                         </p>
                         <p className="text-muted-foreground">
-                            I have taken extensive upper level coursework at Michigan and tried to dip my toes into every discipline of CS I could. Some of my favorites were Operating Systems, Compiler Construction, and the ML, AI, and CV classes I took.
+                            I have taken extensive upper level coursework at Michigan and with multiple disciplines 
+                            and fields. Some of my favorite classes were Operating Systems, Compiler Construction, and 
+                            the ML, AI, and CV classes 
+                            I took.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button"> 
@@ -60,7 +68,7 @@ export const AboutMe = () => {
                                  <div className="text-left">
                                     <h4 className="font-semibold text-lg"> Some of my other passions include... </h4>
                                     <p className="text-muted-foreground">
-                                        Skiing, video games, golf, and watching soccer
+                                        skiing, video games, golf, and watching soccer
                                     </p>
                                 </div>
                              </div>
@@ -74,7 +82,7 @@ export const AboutMe = () => {
                                  <div className="text-left">
                                     <h4 className="font-semibold text-lg"> I am looking for...</h4>
                                     <p className="text-muted-foreground">
-                                       Entry level software engineering positions
+                                       entry level software engineering positions
                                     </p>
                                 </div>
                              </div>
