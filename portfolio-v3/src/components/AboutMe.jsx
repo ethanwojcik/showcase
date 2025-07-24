@@ -24,7 +24,7 @@ export const AboutMe = () => {
                                 Reach Out
                             </a>
                             <a className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-100"
-                                href="../resume.pdf" download="Ethan Wojcik Resume.pdf"> 
+                                href="../Resume_Ethan_Wojcik.pdf" download="Ethan Wojcik Resume.pdf"> 
                                 Download Resume
                             </a>
                         </div>
