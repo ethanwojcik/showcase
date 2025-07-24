@@ -54,7 +54,7 @@ export const AboutMe = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg"> My past summer experience was...</h4>
                                     <p className="text-muted-foreground">
-                                        as an automation developer intern at Federated Hermes were I designed and maintained C# test suites
+                                        as an automation developer intern at Federated Hermes where I designed and maintained C# test suites
                                     </p>
                                 </div>
                              </div>
