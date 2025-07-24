@@ -47,10 +47,35 @@ const skills= [
         name: "C#",
         level: 75,
         category: "backend",
-    },    
+    },
+    {
+        name: "VS Code",
+        level: 95,
+        category: "tools",
+    },
+    {
+        name: "VS Code",
+        level: 95,
+        category: "tools",
+    },
+    {
+        name: "GitHub",
+        level: 95,
+        category: "tools",
+    },
+    {
+        name: "AWS",
+        level: 70,
+        category: "tools",
+    },
+    {
+        name: "WSL",
+        level: 85,
+        category: "tools",
+    },
 ];
 
-const categories= ["all","frontend","backend"];
+const categories= ["all","frontend","backend","tools"];
 export const SkillsSection = () => {
     const [activeCategory,setActiveCategory] =useState("all");
     const filteredSkills=skills.filter((skill)=>activeCategory==="all" || skill.category===activeCategory);
