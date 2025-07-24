@@ -6,7 +6,7 @@ const projects = [
         id:1,
         title: "Self Learning Frogger",
         description: "A fork of a python frogger project. Modified to use Deep Q-Learning to train an AI agent to play frogger",
-        image: "frog2.gif",
+        image: "/frog2.gif",
         tags: ["Python","Deep Learning","Work In Progress"],
         demoUrl: "#coming-soon",
         githubUrl: "https://github.com/ethanwojcik/frogger-ai"
@@ -15,7 +15,7 @@ const projects = [
         id:2,
         title: "Portfolio",
         description: "You are currently looking at it! Modern design ",
-        image: "ss.PNG",
+        image: "../ss.PNG",
         tags: ["React","JavaScript"],
         demoUrl: "#coming-soon",
         githubUrl: "#"
