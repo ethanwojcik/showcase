@@ -32,7 +32,7 @@ export const AboutMe = () => {
                                         <div className="flex justify-center">
                         <div className="w-56 h-56 rounded-xl overflow-hidden shadow-lg border-4 border-primary bg-gray-100 flex items-center justify-center">
  
-                            { <img src="/DSC_9168.jpg" alt="Profile" className="object-cover w-full h-full" /> }
+                            { <img src="../DSC_9168.jpg" alt="Profile" className="object-cover w-full h-full" /> }
                         </div>
                     </div>
 
@@ -61,7 +61,6 @@ export const AboutMe = () => {
                                     <h4 className="font-semibold text-lg"> Some of my other passions include... </h4>
                                     <p className="text-muted-foreground">
                                         Skiing, video games, golf, and watching soccer
-                                        Bruh
                                     </p>
                                 </div>
                              </div>
