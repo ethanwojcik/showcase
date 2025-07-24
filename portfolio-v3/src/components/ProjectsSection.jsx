@@ -4,20 +4,20 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id:1,
-        title: "Placeholder",
-        description: "Desc",
-        image: "../../public/vite.svg",
-        tags: ["React","TailwindCSS",],
-        demoUrl: "www.google.com",
-        githubUrl: "#"
+        title: "Self Learning Frogger",
+        description: "A fork of a python frogger project. Modified to use Deep Q-Learning to train an AI agent to play frogger",
+        image: "/../../public/frog2.gif",
+        tags: ["Python","Deep Learning","Work In Progress"],
+        demoUrl: "#coming-soon",
+        githubUrl: "https://github.com/ethanwojcik/frogger-ai"
     },
     {
         id:2,
-        title: "Placeholder_2",
-        description: "Desc",
-        image: "../../public/vite.svg",
-        tags: ["React",],
-        demoUrl: "#",
+        title: "Portfolio",
+        description: "You are currently looking at it! Modern design ",
+        image: "../../public/ss.PNG",
+        tags: ["React","JavaScript"],
+        demoUrl: "#coming-soon",
         githubUrl: "#"
     }
 ];
@@ -30,7 +30,7 @@ export const ProjectsSection = () => {
                     </span>
                 </h2>
                 <p className= "text-center text-muted-forground mb-12 max-w-2xl mx-auto">
-                    Sample Text
+                    Stay tuned as I continue to fill out this section with more projects. Currently I am working on Self Learning Frogger.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 

@@ -29,7 +29,7 @@ export const Contact = () => {
                     Get In <span className="text-primary"> Touch</span>
                 </h2>
                 <p className="text-center text-muted-foreground mb-12 max-2-2xl mx-auto">
-                    Want to reach out?
+                    Want to reach out? I am always excited to talk about new opportunities or projects. Feel free to send me an email, text, or connect with me on LinkedIn.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                     <div className="space-y-8">
