@@ -61,6 +61,7 @@ export const AboutMe = () => {
                                     <h4 className="font-semibold text-lg"> Some of my other passions include... </h4>
                                     <p className="text-muted-foreground">
                                         Skiing, video games, golf, and watching soccer
+                                        Bruh
                                     </p>
                                 </div>
                              </div>
