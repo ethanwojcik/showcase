@@ -22,7 +22,7 @@ export const AboutMe = () => {
                             coding and love the problem solving aspect that comes with it.
                         </p>
                         <p className="text-muted-foreground">
-                            I have taken extensive upper level coursework at Michigan and with multiple disciplines 
+                            I have taken extensive upper level coursework at Michigan with multiple disciplines 
                             and fields. Some of my favorite classes were Operating Systems, Compiler Construction, and 
                             the ML, AI, and CV classes 
                             I took.
