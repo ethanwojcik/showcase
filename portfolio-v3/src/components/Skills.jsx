@@ -53,11 +53,7 @@ const skills= [
         level: 95,
         category: "tools",
     },
-    {
-        name: "VS Code",
-        level: 95,
-        category: "tools",
-    },
+
     {
         name: "GitHub",
         level: 95,
