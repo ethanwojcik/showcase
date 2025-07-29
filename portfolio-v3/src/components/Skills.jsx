@@ -39,6 +39,11 @@ const skills= [
         category: "backend",
     },
     {
+        name: "Rust",
+        level: 80,
+        category: "backend",
+    },
+    {
         name: "C",
         level: 80,
         category: "backend",
