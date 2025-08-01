@@ -18,7 +18,7 @@ const projects = [
         image: "../ss.PNG",
         tags: ["React","JavaScript"],
         demoUrl: "#",
-        githubUrl: "#"
+        githubUrl: "https://github.com/ethanwojcik/showcase"
     }
 ];
 export const ProjectsSection = () => {
